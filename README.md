@@ -13,7 +13,7 @@
 
 - 支持 **Mobile验证** 和 **2FA验证**
 - 首次运行：需要设备验证，收到 TG 通知后 **30 秒内** 批准
-- REPO_TOKEN：需要有 `repo` 权限才能自动更新 Secret
+- REPO_TOKEN：需要有 `repo` 权限才能自动更新 Cookie
 - Cookie 有效期：每次运行都会更新，保持最新
 
 ### Mobile 验证
