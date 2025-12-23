@@ -1,6 +1,5 @@
 ---
 
-```markdown
 # ClawCloud 自动登录保活
 
 ## ⭐ Star 星星走起 动动发财手点点 ⭐
